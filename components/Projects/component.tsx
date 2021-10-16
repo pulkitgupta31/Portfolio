@@ -33,19 +33,18 @@ export const Projects: FC = () => {
         externalLink: "https://coupay.co.uk/",
         imageLink: `/images/coupay.png`,
       },
-      // {
-      //   title: "Coupay",
-      //   subtitle: t("projects.coupay.subtitle"),
-      //   description: t("projects.coupay.description"),
-      //   technologies: ["Next.js", "Nodejs", "Tailwindcss"],
-      //   githubLink: "https://github.com/conquerorpulkit/",
-      //   externalLink: "https://coupay.co.uk/",
-      //   imageLink: `/images/coupay.png`,
-      // },
+      {
+        title: "Portfolio",
+        subtitle: t("projects.portfolio.subtitle"),
+        description: t("projects.portfolio.description"),
+        technologies: ["Next.js", "Tailwindcss"],
+        githubLink: "https://github.com/conquerorpulkit/Portfolio",
+        externalLink: "https://pulkitgupta.online/",
+        imageLink: `/images/portfolio.png`,
+      },
     ],
     [t]
   );
-
   return (
     <Section
       className="md:mt-20 mt-14"

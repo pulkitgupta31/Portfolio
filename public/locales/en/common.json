@@ -23,6 +23,10 @@
     "coupay": {
       "subtitle": "Payment Platform",
       "description": "A Payment platform for a client while working for Hounding Infosec, worked on the frontend for this project."
+    },
+    "portfolio": {
+      "subtitle": "My Portfolio",
+      "description": "A Portfolio to showcase my skills and projects during my work experience."
     }
   },
   "skills": {
