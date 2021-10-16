@@ -1,11 +1,11 @@
 export default {
   title: "Protfolio | Pulkit Gupta",
   description: "Real full-stack developer lives here.",
-  canonical: "https://pulkitgupta.pg",
+  canonical: "https://protfolio-conquerorpulkit.vercel.app/",
   openGraph: {
-    url: "https://pulkitgupta.pg",
+    url: "https://protfolio-conquerorpulkit.vercel.app/",
     title: "Protfolio | Pulkit Gupta",
     description: "Real full-stack developer lives here.",
-    site_name: "Pulkit Gupta",
+    site_name: "PortFolio | Pulkit Gupta",
   },
 };
