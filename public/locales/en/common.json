@@ -1,0 +1,47 @@
+{
+  "headTitle": "Home | PG",
+  "hero": {
+    "title": "Hi, I'm Pulkit!",
+    "p0": "Full-stack developer",
+    "p1": "Currently SE at",
+    "des0": "I am a grad from Guru Gobind Singh Indraprastha University with major in CS.",
+    "des1": "I enjoy creating high-quality software products with a complex logic behind it.",
+    "des2": "My technology stack includes React, Angular, TypeScript and NodeJs.",
+    "des3": "I am also currently learning more Machine Learning & Data Science."
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Here are some of my most favourite projects that I enjoyed coding and designing from scratch, both with a team and alone.",
+    "internnexus": {
+      "subtitle": "Find your Dream Internship",
+      "description": "Web app helps you find your path to your dream internship."
+    },
+    "wildorganic": {
+      "subtitle": "Ecommerce Website",
+      "description": "An Ecommeerce website for a client while working at Hounding Infosec."
+    },
+    "coupay": {
+      "subtitle": "Payment Platform",
+      "description": "A Payment platform for a client while working for Hounding Infosec, worked on the frontend for this project."
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "I am passionate about using cutting-edge technologies. These are the tools I am most familiar with and build things every day."
+  },
+  "experience": {
+    "title": "Experience",
+    "description": "Here are some great companies I had the honour to join for working on various interesting projects."
+  },
+  "contact": {
+    "title": "Wanna reach out?",
+    "description": "Feel free to drop me a message if you have some interesting offer or you want to hang out."
+  },
+  "currently": "Currently",
+  "citation": {
+    "content": "Eighty persent of success is just showing up..",
+    "author": "Woddy Allen"
+  },
+  "covid19": "Postponed due to Covid-19",
+  "and": "and"
+}
