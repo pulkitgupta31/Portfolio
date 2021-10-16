@@ -3,7 +3,7 @@ import { useAnimation } from "framer-motion";
 import { useTranslation } from "next-i18next";
 import React, { FC, useEffect } from "react";
 import { FaReact } from "react-icons/fa";
-import { SiNodeDotJs } from "react-icons/si";
+import { SiNodedotjs } from "react-icons/si";
 import { useInView } from "react-intersection-observer";
 
 import {
@@ -36,7 +36,7 @@ const skills = [
   {
     name: "Node.js",
     href: "https://nodejs.org",
-    icon: <SiNodeDotJs color="#539E43" />,
+    icon: <SiNodedotjs color="#539E43" />,
   },
   {
     name: "MongoDB",
