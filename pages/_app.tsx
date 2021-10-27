@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="shortcut icon" href="/favicon.ico" />
         <meta name="keywords" content="Pulkit Gupta" />
         <meta name="keywords" content="pulkit gupta" />
-        <meta name="keywords" content="pulkit" />
+        <meta name="keywords" content="portfolio" />
       </Head>
       <Layout>
         <Component {...pageProps} />
