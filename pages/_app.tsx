@@ -15,6 +15,9 @@ function MyApp({ Component, pageProps }: AppProps) {
       <DefaultSeo {...SEO} />
       <Head>
         <link rel="shortcut icon" href="/favicon.ico" />
+        <meta name="keywords" content="Pulkit Gupta" />
+        <meta name="keywords" content="pulkit gupta" />
+        <meta name="keywords" content="pulkit" />
       </Head>
       <Layout>
         <Component {...pageProps} />
