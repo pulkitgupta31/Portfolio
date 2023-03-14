@@ -16,9 +16,14 @@ export const Experience: FC = () => {
   const experience = useMemo(
     () => [
       {
+        title: "Specialist Programmer",
+        place: "Infosys, Banglore",
+        date: "Jan 2023 - Present",
+      },
+      {
         title: "System Engineer",
         place: "Infosys, Banglore",
-        date: "Mar 2021 - Present",
+        date: "Mar 2021 - Dec 2022",
       },
       {
         title: "Web Developer",
