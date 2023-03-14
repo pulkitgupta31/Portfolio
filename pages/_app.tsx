@@ -6,6 +6,7 @@ import Head from "next/head";
 import { appWithTranslation } from "next-i18next";
 import { DefaultSeo } from "next-seo";
 import { ThemeProvider } from "next-themes";
+import { Analytics } from '@vercel/analytics/react';
 
 import SEO from "../next-seo.config";
 
@@ -21,7 +22,9 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <Layout>
         <Component {...pageProps} />
+        <Analytics />
       </Layout>
+
     </ThemeProvider>
   );
 }
