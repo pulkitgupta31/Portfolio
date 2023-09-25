@@ -44,7 +44,7 @@ export const Hero: FC = () => {
       <p className="text-xl font-bold tracking-normal md:text-3xl text-black-700 dark:text-white-700">
         {t("hero.p0")}
         <br />
-        {t("hero.p1")} <HeroLink title="Infosys" href="https://infosys.com" />
+        {t("hero.p1")} <HeroLink title="University Of Westminster" href="https://www.westminster.ac.uk" />
       </p>
       <div className="flex mt-8">
         <MediaIcon
