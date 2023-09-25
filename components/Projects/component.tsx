@@ -35,8 +35,8 @@ export const Projects: FC = () => {
       },
       {
         title: "Hackinbits",
-        subtitle: t("projects.coupay.subtitle"),
-        description: t("projects.coupay.description"),
+        subtitle: t("projects.hackinbits.subtitle"),
+        description: t("projects.hackinbits.description"),
         technologies: ["Next.js", "Nodejs", "Tailwindcss"],
         externalLink: "https://hackinbits.com/",
         imageLink: `/images/hackinbits.png`,
