@@ -34,6 +34,14 @@ export const Projects: FC = () => {
         imageLink: `/images/coupay.png`,
       },
       {
+        title: "Hackinbits",
+        subtitle: t("projects.coupay.subtitle"),
+        description: t("projects.coupay.description"),
+        technologies: ["Next.js", "Nodejs", "Tailwindcss"],
+        externalLink: "https://hackinbits.com/",
+        imageLink: `/images/hackinbits.png`,
+      },
+      {
         title: "Portfolio",
         subtitle: t("projects.portfolio.subtitle"),
         description: t("projects.portfolio.description"),
