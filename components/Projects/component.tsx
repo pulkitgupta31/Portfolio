@@ -39,7 +39,7 @@ export const Projects: FC = () => {
         description: t("projects.hackinbits.description"),
         technologies: ["Next.js", "Nodejs", "Tailwindcss"],
         externalLink: "https://hackinbits.com/",
-        imageLink: `/images/Screenshot 2023-09-26 at 13.49.34.png`,
+        imageLink: `/images/hackinbits1.png`,
       },
       {
         title: "Portfolio",
