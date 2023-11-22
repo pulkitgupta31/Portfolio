@@ -10,6 +10,14 @@ export const Projects: FC = () => {
   const projects = useMemo(
     () => [
       {
+        title: "Options Strategies",
+        subtitle: t("projects.optionsStrategies.subtitle"),
+        description: t("projects.optionsStrategies.description"),
+        technologies: ["Python", "Finance", "Traging Strategies"],
+        externalLink: "https://pypi.org/project/optionsStrategies/",
+        imageLink: `/images/pypi.png`,
+      },
+      {
         title: "InternNexus",
         subtitle: t("projects.internnexus.subtitle"),
         description: t("projects.internnexus.description"),
