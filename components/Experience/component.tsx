@@ -18,7 +18,7 @@ export const Experience: FC = () => {
       {
         title: "Specialist Programmer",
         place: "Infosys, Banglore",
-        date: "Jan 2023 - Present",
+        date: "Jan 2023 - Aug 2023",
       },
       {
         title: "System Engineer",
