@@ -2,16 +2,20 @@
   "headTitle": "Portfolio | PG",
   "hero": {
     "title": "Hi, I'm Pulkit!",
-    "p0": "Full-stack developer",
-    "p1": "Currently Studying Fintech and Business Analytics at ",
-    "des0": "I am a grad from Guru Gobind Singh Indraprastha University with major in Computer Science.",
-    "des1": "I enjoy creating high-quality software products with a complex logic behind it.",
-    "des2": "My technology stack includes React, Angular, TypeScript and NodeJs.",
+    "p0": "Fintech Student and Full-stack developer",
+    "p1": "Currently Persuing Fintech and Business Analytics at ",
+    "des0": "I am persuing masters in Fintech and am a grad from Guru Gobind Singh Indraprastha University with major in Computer Science.",
+    "des1": "I enjoy finance and also love creating high-quality software products with a complex logic behind it.",
+    "des2": "My technology stack includes Python, React, Angular, TypeScript and NodeJs.",
     "des3": "I am also currently learning Machine Learning ,Data Science & Finance."
   },
   "projects": {
     "title": "Projects",
     "description": "Here are some of my most favourite projects that I enjoyed coding and designing from scratch, both with a team and alone.",
+    "optionsStrategies": {
+      "subtitle": "Open Source Python Package",
+      "description": "Open Source Python Package that helps in calculating the payoff and profit/loss of various options strategies."
+    },
     "internnexus": {
       "subtitle": "Find your Dream Internship",
       "description": "Web app helps you find your path to your dream internship."
