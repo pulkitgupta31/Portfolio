@@ -119,6 +119,7 @@ export const ProjectCard: FC<Props> = ({
         href={externalLink}
         rel="noreferrer"
       />
+      <br />
     </div>
   );
 };
