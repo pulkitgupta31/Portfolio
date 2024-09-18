@@ -19,6 +19,36 @@ import { Skill } from "./libs/Skill";
 
 const skills = [
   {
+    name: "Python",
+    href: "https://www.python.org/",
+    icon: <PythonIcon />,
+  },
+  {
+    name: "R Programming",
+    href: "https://www.r-project.org/",
+    icon: <PythonIcon />,
+  },
+  {
+    name: "Bloomberg Terminal",
+    href: "https://www.bloomberg.com/professional/products/bloomberg-terminal/?utm_medium=Adwords_SEM&utm_source=pdsrch&utm_content=Terminal&utm_campaign=835926&utm_term=bloomberg+terminal&tactic=835926&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nzopB6KH7_NH2w9LmNK5QogwA1lysXWZAULPryo1k1TGQZ5wtYGMNAaAmCzEALw_wcB&gclsrc=aw.ds",
+    icon: <PythonIcon />,
+  },
+  {
+    name: "Solidity",
+    href: "https://soliditylang.org/",
+    icon: <PythonIcon />,
+  },
+  {
+    name: "MySQL",
+    href: "https://www.mysql.com/",
+    icon: <PythonIcon />,
+  },
+  {
+    name: "PostgreSQL",
+    href: "https://www.postgresql.org/",
+    icon: <PythonIcon />,
+  },
+  {
     name: "React",
     href: "https://reactjs.org",
     icon: <FaReact color="#00D8FF" />,
@@ -57,11 +87,6 @@ const skills = [
     name: "Tailwind",
     href: "https://tailwindcss.com/",
     icon: <TailwindIcon />,
-  },
-  {
-    name: "Python",
-    href: "https://www.python.org/",
-    icon: <PythonIcon />,
   },
 ];
 
