@@ -2,12 +2,12 @@
   "headTitle": "Portfolio | PG",
   "hero": {
     "title": "Hi, I'm Pulkit!",
-    "p0": "Fintech Student and Full-stack developer",
-    "p1": "Currently Persuing Fintech and Business Analytics at ",
-    "des0": "I am persuing masters in Fintech and am a grad from Guru Gobind Singh Indraprastha University with major in Computer Science.",
-    "des1": "I enjoy finance and also love creating high-quality software products with a complex logic behind it.",
-    "des2": "My technology stack includes Python, React, Angular, TypeScript and NodeJs.",
-    "des3": "I am also currently learning Machine Learning ,Data Science & Finance."
+    "p0": "Quantitative Analyst",
+    "p1": "Graduated with MSc Fintech and Business Analytics from ",
+    "des0": "A highly motivated and technically proficient professional with a background in Fintech and Business Analytics and a degree in Computer Science Engineering. With over 3 years of hands-on experience in financial analysis, programming, and data management, I specialize in systematic trading strategies, financial modeling, and large-scale data analysis. I have a proven track record of driving innovation through Python, R, VBA, and advanced data processing techniques, and thrive in fast-paced environments that require a deep understanding of financial markets and derivatives.",
+    "des1": "Having worked in both financial services and technology, I bring a unique blend of skills that allow me to build efficient, data-driven models and collaborate effectively with cross-functional teams. My analytical mindset, coupled with strong communication and project management skills, enables me to translate complex data into actionable insights, ensuring successful project outcomes and client satisfaction.",
+    "des2": "With a passion for staying ahead of industry trends and a keen interest in systematic trading and index strategies, I am eager to leverage my expertise to contribute to innovative financial products and solutions.",
+    "des3": ""
   },
   "projects": {
     "title": "Projects",
