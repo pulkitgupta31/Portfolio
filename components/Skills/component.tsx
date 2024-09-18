@@ -27,12 +27,12 @@ const skills = [
   {
     name: "R Programming",
     href: "https://www.r-project.org/",
-    icon: <RIcon />,
+    icon: <PythonIcon />,
   },
   {
     name: "Excel",
     href: "https://www.microsoft.com/en-gb/microsoft-365/excel",
-    icon: <PythonIcon />,
+    icon: <ExcelIcon />,
   },
   {
     name: "Bloomberg Terminal",
