@@ -14,6 +14,7 @@ import {
   PythonIcon,
   TailwindIcon,
   TsIcon,
+  RIcon
 } from "./libs/Icons";
 import { Skill } from "./libs/Skill";
 
