@@ -87,7 +87,7 @@ export const Skills: FC = () => {
     >
       <Container>
         <div
-          className="mt-8 grid grid-cols-2 sm:grid-cols-3 gap-6"
+          className="mt-8 grid grid-cols-2 sm:grid-cols-5 gap-6"
           ref={ref}
         >
           {skills.map((skill, i) => (
