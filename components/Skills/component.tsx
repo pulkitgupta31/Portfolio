@@ -26,7 +26,7 @@ const skills = [
   {
     name: "R Programming",
     href: "https://www.r-project.org/",
-    icon: <PythonIcon />,
+    icon: <RIcon />,
   },
   {
     name: "Excel",
