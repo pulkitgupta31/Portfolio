@@ -29,6 +29,11 @@ const skills = [
     icon: <PythonIcon />,
   },
   {
+    name: "Excel",
+    href: "https://www.microsoft.com/en-gb/microsoft-365/excel",
+    icon: <PythonIcon />,
+  },
+  {
     name: "Bloomberg Terminal",
     href: "https://www.bloomberg.com/professional/products/bloomberg-terminal/?utm_medium=Adwords_SEM&utm_source=pdsrch&utm_content=Terminal&utm_campaign=835926&utm_term=bloomberg+terminal&tactic=835926&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nzopB6KH7_NH2w9LmNK5QogwA1lysXWZAULPryo1k1TGQZ5wtYGMNAaAmCzEALw_wcB&gclsrc=aw.ds",
     icon: <PythonIcon />,
